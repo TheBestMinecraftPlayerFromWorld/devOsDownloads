@@ -2,5 +2,6 @@ git clone https://github.com/TheBestMinecraftPlayerFromWorld/devOs
 cd devOs
 chmod +x start.sh
 pip3 install tkinterweb
+pip3 install pynput
 
 "./start.sh" to run

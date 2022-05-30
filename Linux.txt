@@ -1,3 +1,4 @@
+//You can try it but i think it don't work
 git clone https://github.com/TheBestMinecraftPlayerFromWorld/devOs
 cd devOs
 chmod +x start.sh

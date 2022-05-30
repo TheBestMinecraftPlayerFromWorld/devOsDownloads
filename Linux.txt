@@ -1,0 +1,5 @@
+git clone https://github.com/TheBestMinecraftPlayerFromWorld/devOs
+cd devOs
+chmod +x start.sh
+
+"./start.sh" to run
